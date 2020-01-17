@@ -1,0 +1,31 @@
+{
+    "products":[
+        {
+            "title":"Green T-shirt",
+            "price":10.5,
+            "id":1,
+            "description":"Tie Dye Green"
+        },
+        {
+
+            "title":"Yellow T-shirt",
+            "price":12.0,
+            "id":2,
+            "description":"Tie Dye Yellow"
+
+        },
+        {
+            "title":"White T-shirt",
+            "price":6.0,
+            "id":3,
+            "description":"Tie Dye White"
+
+        },
+        {
+            "title":"Blacl T-shirt",
+            "price":11.0,
+            "id":4,
+            "description":"Tie Dye Black"
+        }
+    ]
+}
