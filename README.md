@@ -17,6 +17,7 @@ For Backend
 3. Run the main method in FoodDeliveryApi class.
 
 For Frontend
+
 Dependency Required: npm
 1. In the cloned repo, goto fooddeliveryapp, and run command "npm start".
 5. open browser and goto to localhost:3000/new
